@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Project on Henry Truong</title>
+    <link>https://tmhuy0510.github.io/Henry_DS_Portfolio/tags/project/</link>
+    <description>Recent content in Project on Henry Truong</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 03 Mar 2022 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://tmhuy0510.github.io/Henry_DS_Portfolio/tags/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>R Project: Predictive Text Model</title>
+      <link>https://tmhuy0510.github.io/Henry_DS_Portfolio/post/text-predictions/</link>
+      <pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://tmhuy0510.github.io/Henry_DS_Portfolio/post/text-predictions/</guid>
+      <description>This topic of this project is to develop a data product predicting the next word when users are texting on their smartphone keyboard. The database used to train the model can be accessed via this link. The database is comprised of 4 sub-databases, each of which corresponds to each language. In this project, the focus is on the English sub-database. The text data within the English sub-database are collected from 3 different types of media:</description>
+    </item>
+    
+    <item>
+      <title>R Project: Traffic Collisions in Halifax Regional Municipality</title>
+      <link>https://tmhuy0510.github.io/Henry_DS_Portfolio/post/traffic-collisions/</link>
+      <pubDate>Fri, 14 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://tmhuy0510.github.io/Henry_DS_Portfolio/post/traffic-collisions/</guid>
+      <description>This topic of this project is on traffic collisions in Halifax Regional Municipality (HRM) over the period of 2018-2021. The project will find out the tendency of traffic accidents in terms of time, space as well as characteristics related to collisions, roads and drivers. In addition, the project will perform hypothesis testing to make inference from the data of HRM. Lastly, a predictive model will be built to make a prediction on the number of daily incidents occurring in HRM.</description>
+    </item>
+    
+    <item>
+      <title>Python Project: Athletes and Results of 120 Years of Olympic History</title>
+      <link>https://tmhuy0510.github.io/Henry_DS_Portfolio/post/olympics-events/</link>
+      <pubDate>Thu, 18 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tmhuy0510.github.io/Henry_DS_Portfolio/post/olympics-events/</guid>
+      <description>The purpose of this project is to understand and examine the dataset on Athletes and Results of 120 Years of Olympic History using the data analysis approach. A large part of tools applied in this study include Python and SQL to get and clean the data, to make queries to extract a certain piece of information of interest, to perform exploratory data analysis and to create visualization of the extracted data.</description>
+    </item>
+    
+    <item>
+      <title>R Project: Languages in Canada in 2016</title>
+      <link>https://tmhuy0510.github.io/Henry_DS_Portfolio/post/canadian-languages/</link>
+      <pubDate>Thu, 18 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tmhuy0510.github.io/Henry_DS_Portfolio/post/canadian-languages/</guid>
+      <description>This topic of this project is to develop a data product using the data set related to languages spoken by Canadian residents. This data set was collected during the 2016 Canadian census. The result of the project is an application used to visualize the answers of the following 2 questions:
+ What are the top 3-10 languages of the selected category spoken most as mother tongue? What is the number of people speaking a language at work, given the number of them speaking it at home?</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Henry Truong</title>
+    <link>https://tmhuy0510.github.io/Henry_DS_Portfolio/tags/</link>
+    <description>Recent content in Tags on Henry Truong</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 22 Mar 2022 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://tmhuy0510.github.io/Henry_DS_Portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>R</title>
+      <link>https://tmhuy0510.github.io/Henry_DS_Portfolio/tags/r/</link>
+      <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://tmhuy0510.github.io/Henry_DS_Portfolio/tags/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TidyTuesday</title>
+      <link>https://tmhuy0510.github.io/Henry_DS_Portfolio/tags/tidytuesday/</link>
+      <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://tmhuy0510.github.io/Henry_DS_Portfolio/tags/tidytuesday/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project</title>
+      <link>https://tmhuy0510.github.io/Henry_DS_Portfolio/tags/project/</link>
+      <pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://tmhuy0510.github.io/Henry_DS_Portfolio/tags/project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://tmhuy0510.github.io/Henry_DS_Portfolio/tags/python/</link>
+      <pubDate>Thu, 18 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tmhuy0510.github.io/Henry_DS_Portfolio/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL</title>
+      <link>https://tmhuy0510.github.io/Henry_DS_Portfolio/tags/sql/</link>
+      <pubDate>Thu, 18 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tmhuy0510.github.io/Henry_DS_Portfolio/tags/sql/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

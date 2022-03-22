@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TidyTuesday on Henry Truong</title>
+    <link>https://tmhuy0510.github.io/Henry_DS_Portfolio/tags/tidytuesday/</link>
+    <description>Recent content in TidyTuesday on Henry Truong</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 22 Mar 2022 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://tmhuy0510.github.io/Henry_DS_Portfolio/tags/tidytuesday/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>TidyTuesday: UFC History</title>
+      <link>https://tmhuy0510.github.io/Henry_DS_Portfolio/post/ufc-history/</link>
+      <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://tmhuy0510.github.io/Henry_DS_Portfolio/post/ufc-history/</guid>
+      <description>This work is inspired and instructed by Andrew Couch. I would like to express my deepest appreciation to him. The topic is about UFC Match History. The data can be accessed via this link.
+The work focuses on cleaning data, performing exploratory analysis, building and tweaking a model and further performing exploratory analysis. Codes used for this work can be found in my github.
+There are 3 main questions will be answered:</description>
+    </item>
+    
+    <item>
+      <title>TidyTuesday: Chocolate Ratings</title>
+      <link>https://tmhuy0510.github.io/Henry_DS_Portfolio/post/chocolate-ratings/</link>
+      <pubDate>Mon, 07 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://tmhuy0510.github.io/Henry_DS_Portfolio/post/chocolate-ratings/</guid>
+      <description>This work is inspired by R Data Science: Tidy Tuesday. This week’s topic is about Chocolate Ratings. The data can be accessed via this link.
+The work will answer three main questions related to:
+ How each continent in the world contribute to the origin of chocolate What words and how they are used describe the chocolate taste Whether we can build a predictive models using text data along with other features to predict chocolate ratings    The work walks through all the steps of a typical data science project, which include:</description>
+    </item>
+    
+    <item>
+      <title>TidyTuesday: Tuskegee Airmen</title>
+      <link>https://tmhuy0510.github.io/Henry_DS_Portfolio/post/tuskegee-airmen/</link>
+      <pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://tmhuy0510.github.io/Henry_DS_Portfolio/post/tuskegee-airmen/</guid>
+      <description>This work is inspired by R Data Science: Tidy Tuesday. This week&amp;rsquo;s topic is about Tuskegee Airmen. The data can be accessed via this link.
+The work will answer two questions related to:
+ Spatial distribution of airmen across the US Correlation between the graduation rank and the type of pilot    The work walks through all the steps of a typical data science project, which include:
+ Getting the Data Understanding the Data Cleaning and Wrangling the Data Performing Exploratory Data Analysis Testing Hypothesis and Performing Statistical Inference  The source code can be found in my GitHub.</description>
+    </item>
+    
+  </channel>
+</rss>

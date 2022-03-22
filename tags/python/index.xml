@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on Henry Truong</title>
+    <link>https://tmhuy0510.github.io/Henry_DS_Portfolio/tags/python/</link>
+    <description>Recent content in Python on Henry Truong</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Nov 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://tmhuy0510.github.io/Henry_DS_Portfolio/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Python Project: Athletes and Results of 120 Years of Olympic History</title>
+      <link>https://tmhuy0510.github.io/Henry_DS_Portfolio/post/olympics-events/</link>
+      <pubDate>Thu, 18 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tmhuy0510.github.io/Henry_DS_Portfolio/post/olympics-events/</guid>
+      <description>The purpose of this project is to understand and examine the dataset on Athletes and Results of 120 Years of Olympic History using the data analysis approach. A large part of tools applied in this study include Python and SQL to get and clean the data, to make queries to extract a certain piece of information of interest, to perform exploratory data analysis and to create visualization of the extracted data.</description>
+    </item>
+    
+  </channel>
+</rss>
